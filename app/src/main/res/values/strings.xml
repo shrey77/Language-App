@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Spanish</string>
+    <string name="phrases">Phrases</string>
+    <string name="colors">Colors</string>
+    <string name="numbers">Numbers</string>
+    <string name="food">Food</string>
+
+    <!-- Toast strings -->
+    <string name="phrasesToast">Phrases Chosen</string>
+    <string name="colorsToast">Colors Chosen</string>
+    <string name="numbersToast">Numbers Chosen</string>
+    <string name="foodToast">Food Chosen</string>
+
+    <!-- Phrases strings -->
+    <string name="phrase1">Hello!</string>
+    <string name="phrase2">How are you?</string>
+    <string name="phrase3">Where are you from?</string>
+    <string name="phrase4">I am from...</string>
+    <string name="phrase5">What is your name?</string>
+
+</resources>
