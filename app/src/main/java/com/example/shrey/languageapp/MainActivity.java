@@ -72,5 +72,19 @@ public class MainActivity extends AppCompatActivity {
                         Toast.LENGTH_SHORT).show();
             }
         });
+
+        TextView googleTextView = (TextView) findViewById(R.id.googleTranslate);
+
+        googleTextView.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                Intent googleIntent = new Intent(MainActivity.this, GoogleTranslate.class);
+                startActivity(googleIntent);
+
+                Toast.makeText(MainActivity.this, getString(R.string.googleToast),
+                        Toast.LENGTH_SHORT).show();
+            }
+        });
     }
 }

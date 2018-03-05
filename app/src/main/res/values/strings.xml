@@ -4,12 +4,16 @@
     <string name="colors">Colors</string>
     <string name="numbers">Numbers</string>
     <string name="food">Food</string>
+    <string name="googleTranslate">Google Translate</string>
+    <string name="voice">Speech To Text Voice Recognition</string>
 
     <!-- Toast strings -->
     <string name="phrasesToast">Phrases Chosen</string>
     <string name="colorsToast">Colors Chosen</string>
     <string name="numbersToast">Numbers Chosen</string>
     <string name="foodToast">Food Chosen</string>
+    <string name="googleToast">Google Translate Chosen</string>
+    <string name="listenToast">Listening Started</string>
 
     <!-- Phrases strings -->
 
@@ -48,5 +52,6 @@
     <string name="phraseSpanish14">Qué hora es?</string>
     <string name="phraseSpanish15">Dónde está el baño?</string>
     <string name="phraseSpanish16">Yo no comprendo.</string>
+    <string name="title_activity_google_translate">GoogleTranslate</string>
 
 </resources>
